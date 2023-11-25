@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "yemek-menusu",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yemek-menusu"
+	}
+}
